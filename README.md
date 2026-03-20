@@ -17,11 +17,15 @@
 <a href="https://github.com/ducnolag?tab=followers"><img src="https://img.shields.io/github/followers/ducnolag?label=Followers&style=flat-square&color=236ad3" alt="Followers" /></a>
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Về Tôi**
 
-<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="340" alt="Developer Working" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-002f279a6f28.gif" width="300" alt="Coding GIF" />
 
 - 🔭 Tôi hiện đang làm việc / học tập tại **[Trường/Công ty]**
 - 🌱 Đang nghiên cứu chuyên sâu về **[Công nghệ]**
@@ -82,6 +86,14 @@
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ducnolag&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <div align="center">
