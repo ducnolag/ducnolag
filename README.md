@@ -1,106 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20Universe!&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
-  
-  <h1>Xin chào, tôi là <a href="https://github.com/[USERNAME_CUA_BAN]" target="_blank">[Tên Của Bạn]</a> 👋</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👨‍💻+Lập+Trình+Viên+Đam+Mê;🌐+Nhà+Phát+Triển+Sáng+Tạo;🚀+Luôn+Khám+Phá+Công+Nghệ+Mới" alt="Typing SVG" />
-  </a>
+<!-- Header Banner Đẹp mắt với hiệu ứng gợn sóng Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Welcome%20To%20My%20Profile!&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Hi%20there,%20I'm%20ducnolag!&descAlignY=55&descAlign=49&fontColor=ffffff" width="100%"/>
 
-  <br><br>
+<br><br>
 
-  <!-- Animated GIF (Code/Developer) -->
-  <img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/assets/images/builder.gif" alt="Developer Coding GIF" width="400" />
+<!-- Hiệu ứng Gõ Chữ (Typing Text) Siêu Mượt -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👨‍💻+Đam+Mê+Lập+Trình;🚀+Thích+Khám+Phá+Công+Nghệ;💡+Luôn+Sẵn+Sàng+Xây+Dựng+Sản+Phẩm+Mới" alt="Typing SVG" />
+</a>
 
-  <br><br>
+<br><br>
 
-  <p align="center">
-    <a href="https://github.com/[USERNAME_CUA_BAN]"><img src="https://komarev.com/ghpvc/?username=[USERNAME_CUA_BAN]&label=Lượt+xem+Profile&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
-    <a href="https://github.com/[USERNAME_CUA_BAN]?tab=followers"><img src="https://img.shields.io/github/followers/[USERNAME_CUA_BAN]?label=Người+theo+dõi&style=for-the-badge&color=2ea043" alt="Followers" /></a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[USERNAME_CUA_BAN]&theme=dracula&no-frame=true&row=1&column=7&margin-w=15" alt="Trophy" /></a>
-  </p>
+<!-- Ảnh Video Hoạt Hình Coder Nhìn Cực Ngầu -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="450" style="border-radius: 10px;" />
+
+<br><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ducnolag&label=Lượt+xem+Profile&color=00F0FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ducnolag?label=Người+theo+dõi&style=flat-square&color=FF0055" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ducnolag?label=Stars&style=flat-square&color=00FF99" alt="Stars" />
+</p>
 </div>
 
 ---
 
 ## 👨‍💻 Về Tôi
 
-<!-- Animated GIF (Mô hình hành tinh các ngôn ngữ lập trình trôi nổi kiểu 3D) -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-56114eb2-6150-42ba-974a-4a2599c1d0a5.gif" width="350" alt="Tech Stack Planets" />
+- 🔭 Hiện đang xây dựng lại không gian làm việc của mình trên **GitHub**
+- 🌱 Đang tập trung nâng cao kỹ năng code và khám phá công nghệ mới mỗi ngày.
+- 👯 Rất sẵn sàng hợp tác trong các dự án **Mã Nguồn Mở (Open Source)**
+- 💬 Hãy hỏi tôi bất cứ điều gì về code, tôi luôn sẵn sàng trao đổi!
+- 📫 Cách nhanh nhất để liên hệ: qua **[Thêm Link Facebook/Email của bạn vào đây]**
 
-- 🔭 Hiện đang làm việc / học tập tại **[Tên Công Ty hoặc Trường Học]**
-- 🌱 Đang học hỏi và nghiên cứu chuyên sâu về **[Công Nghệ / Ngôn Ngữ]**
-- 👯 Sẵn sàng hợp tác trong các dự án **[Loại Dự Án / Mã Nguồn Mở]**
-- 💬 Hãy hỏi tôi bất cứ điều gì về **[Chuyên Môn Của Bạn]** (VD: React, Node.js, Python,...)
-- 📫 Liên hệ với tôi qua email: **[Email của bạn]**
-- ⚡ Fun fact: **[Sở thích, Thói quen thú vị, v.v.]**
-
-<br><br><br> <!-- Khoảng cách để ảnh hành tinh không bị chèn vào dải kỹ năng bên dưới -->
+<br>
 
 ---
 
-## 🛠 Ngôn Ngữ & Công Nghệ
-
-<!-- Dải chữ Neon động -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Line Divider" />
-</div>
-
-<br>
+## 🛠 Bộ Kỹ Năng & Ngôn Ngữ Lập Trình (Tech Stack)
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,nodejs,express,python,java,php,mysql,mongodb,postgres,firebase,git,github,docker,vscode,postman,figma,linux&perline=12" alt="Bảng Kỹ Năng" />
+  <h3>✨ Mảng Frontend ✨</h3>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,figma&perline=10" alt="Frontend Kỹ Năng" />
+  </a>
+
+  <br><br>
+
+  <h3>⚙️ Mảng Backend & Database ⚙️</h3>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,mongodb,postgres,firebase,redis,graphql&perline=10" alt="Backend Kỹ Năng" />
+  </a>
+
+  <br><br>
+
+  <h3>🔧 Công cụ & DevOps 🔧</h3>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,linux,bash,vim,npm&perline=10" alt="DevOps Tools" />
   </a>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Line Divider" />
-</div>
 
 ---
 
-## 📈 Thống Kê GitHub Chuyên Nghiệp
+## 📈 Tóm Tắt Thống Kê Điểm GitHub
+
+> *(Toàn bộ bảng thống kê được mình đồng bộ hóa sử dụng Dark Mode tông màu Tokyo Night hiện đại, làm nổi bật trang của bạn vào ban đêm)* 🌙
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_CUA_BAN]&show_icons=true&theme=radical&locale=vn&hide_border=true&bg_color=0D1117" alt="Thống kê GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_CUA_BAN]&theme=radical&hide_border=true&background=0D1117" alt="Chuỗi Đóng Góp" width="48%" />
+  <!-- Thẻ chỉ số tổng quan với Theme Tokyo Night -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ducnolag&show_icons=true&theme=tokyonight&locale=vn&hide_border=true&bg_color=1A1B27" alt="Thống kê GitHub của ducnolag" width="48%" />
+  
+  <!-- Thẻ chuỗi ngày code với Theme Tokyo Night -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducnolag&theme=tokyonight&hide_border=true&background=1A1B27" alt="Chuỗi Đóng Góp" width="48%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_CUA_BAN]&layout=compact&theme=radical&locale=vn&hide_border=true&bg_color=0D1117&langs_count=8&custom_title=Ngôn Ngữ Sử Dụng Nhiều Nhất" alt="Top Ngôn Ngữ" width="55%" />
-</div>
+<p align="center">
+  <!-- Thẻ top ngôn ngữ gọn gàng, Theme Tokyo Night -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnolag&layout=compact&theme=tokyonight&locale=vn&hide_border=true&bg_color=1A1B27&langs_count=8&custom_title=Ngôn Ngữ Code Nhiều Nhất" alt="Top Ngôn Ngữ" width="55%" />
+</p>
 
 ---
 
-## 🤝 Kết Nối Với Tôi
+## 🏆 Cúp Đóng Góp
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ducnolag&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies của ducnolag" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <br>
-  <a href="https://linkedin.com/in/[LINKEDIN_CUA_BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/[FACEBOOK_CUA_BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://twitter.com/[TWITTER_CUA_BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:[EMAIL_CUA_BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Cảm%20ơn%20bạn%20đã%20ghé%20thăm!&fontSize=30&fontAlignY=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <!-- Ảnh trích dẫn châm ngôn ngẫu nhiên cực chất cho lập trình viên -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="80%" />
+  <hr>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,1&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
