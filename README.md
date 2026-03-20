@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ducnolag&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -59,14 +59,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnolag&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" width="42%" alt="Top Languages"/>
-</div>
-
----
-
-## 🏆 Danh Hiệu GitHub
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ducnolag&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 </div>
 
 ---
