@@ -1,69 +1,76 @@
 <div align="center">
-  <!-- Giảm chiều cao của cảnh nền Header để bớt margin -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
-  
-  <h2>Xin chào, tôi là Duc 👋</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ducnolag&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-  <!-- Sửa liên kết gốc của chữ chạy (Typing SVG) để nó không bị lỗi ẩn hình -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Lap+Trinh+Vien+Dam+Me;Nha+Phat+Trien+Sang+Tao;Luon+Kham+Pha+Cong+Nghe+Moi" alt="Typing SVG" />
-  </a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</div>
 
-  <!-- Cái cúp dùng đúng link demo của Ryo-Ma rank S như bạn yêu cầu -->
-  <div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S&theme=dracula&no-frame=true&row=1&column=7&margin-w=15" alt="Trophy" />
-    </a>
-  </div>
-
-  <div>
-    <a href="https://github.com/ducnolag"><img src="https://komarev.com/ghpvc/?username=ducnolag&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
-    <a href="https://github.com/ducnolag?tab=followers"><img src="https://img.shields.io/github/followers/ducnolag?label=Followers&style=for-the-badge&color=2ea043" alt="Followers" /></a>
-  </div>
+<div align="center">
+<a href="https://github.com/ducnolag"><img src="https://komarev.com/ghpvc/?username=ducnolag&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" /></a>&nbsp;
+<a href="https://github.com/ducnolag?tab=followers"><img src="https://img.shields.io/github/followers/ducnolag?label=Followers&style=flat-square&color=236ad3" alt="Followers" /></a>
 </div>
 
 ---
 
-## 👨‍💻 Về Tôi
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Về Tôi**
 
-<!-- Quả cầu ngôn ngữ 3D trôi nổi -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-56114eb2-6150-42ba-974a-4a2599c1d0a5.gif" width="300" alt="Tech Stack Planets" />
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="340" alt="Developer Working" />
 
-- 🔭 Hiện đang làm việc / học tập tại **[Tên Công Ty hoặc Trường Học]**
-- 🌱 Đang học hỏi và nghiên cứu chuyên sâu về **Công Nghệ**
-- 👯 Sẵn sàng hợp tác trong các dự án **Mã Nguồn Mở**
-- 💬 Hãy hỏi tôi bất cứ điều gì về **Lập Trình**
-- 📫 Liên hệ với tôi qua email: **[Email của bạn]**
+- 🔭 Tôi hiện đang làm việc / học tập tại **[Trường/Công ty]**
+- 🌱 Đang nghiên cứu chuyên sâu về **[Công nghệ]**
+- 👯 Sẵn sàng hợp tác trong các dự án **Open Source**
+- 💬 Hãy hỏi tôi bất cứ điều gì về **[Chuyên Môn]**
+- 📫 Email: **[Email của bạn]**
+- ⚡ Fun fact: **[Sở thích thú vị]**
 
----
-
-## 🛠 Ngôn Ngữ & Công Nghệ (Video Ngôn Ngữ Chạy Nằm Ở Đây)
-
-<div align="center">
-  <!-- ĐÂY LÀ VIDEO "NGÔN NGỮ CHẠY" NGANG MÀ BẠN CẦN (MARQUEE) -->
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="800" alt="Animated Tech Marquee" />
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Icon tĩnh sắc nét kèm theo -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,nodejs,express,python,java,php,mysql,mongodb,postgres,firebase,git,github,docker,vscode,postman,figma,linux&perline=12" alt="Bảng Kỹ Năng" />
-  </a>
-</div>
+<br clear="both"/>
 
 ---
 
-## 📈 Thống Kê GitHub
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Ngôn Ngữ & Công Nghệ**
+
+<!-- Dải icon ngôn ngữ ĐỘNG - mỗi icon tự nhảy/rung riêng -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80">
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ducnolag&show_icons=true&theme=radical&locale=vn&hide_border=true&bg_color=0D1117" alt="Thống kê GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducnolag&theme=radical&hide_border=true&background=0D1117" alt="Chuỗi Đóng Góp" width="48%" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,mysql,mongodb,firebase,git,github,docker,vscode,linux,figma&perline=10" /></a>
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Thống Kê GitHub**
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ducnolag&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ducnolag&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnolag&layout=compact&theme=radical&locale=vn&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Ngôn Ngữ" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnolag&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" width="42%" alt="Top Languages"/>
 </div>
 
+---
+
+## 🏆 Danh Hiệu GitHub
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontAlignY=70&fontColor=ffffff" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ducnolag&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
